@@ -1,0 +1,7 @@
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\bin\Debug\Aula01Txt.exe.config
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\bin\Debug\Aula01Txt.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\bin\Debug\Aula01Txt.pdb
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\obj\Debug\Aula01Txt.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\obj\Debug\Aula01Txt.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\obj\Debug\Aula01Txt.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula01Txt\Aula01Txt\obj\Debug\Aula01Txt.pdb
